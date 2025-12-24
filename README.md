@@ -87,3 +87,6 @@ The project includes unit tests for the business logic.
 2.  **Get Dependencies**: Run `flutter pub get`.
 3.  **Run App**: `flutter run`.
 4.  **Run Tests**: `flutter test`.
+
+### Download APK Here
+You can also download the final, released APK from this [link](https://github.com/mahmoud-maher-1/Simple-Calculator-Application/releases/download/Android/Calculator.Application.apk)
